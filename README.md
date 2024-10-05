@@ -9,9 +9,9 @@ Question 3: Tyler
 
 Question 4: Nico
 
-Question 5: Nico/Nikhil
+Question 5: Nikhil
 
-Question 6: Nikhil
+Question 6: Nico
 
 You can work on your designated question in whatever environment you'd like (google collab, jupyter notebook, etc), just download the file to your file system. Once downloaded to your file system go to the code page of the repository and click "add file", then select the file you were working on and commit the file with whatever message you want to main. 
 
